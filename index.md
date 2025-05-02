@@ -1,2 +1,3 @@
-Hola soy una nueva linea
-agregando segunda linea de prueba
+Hola soy una nueva linea<br/>
+agregando segunda linea de prueba<br/>
+agregando una linea de prueba
